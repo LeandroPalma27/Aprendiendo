@@ -11,4 +11,6 @@
     7. con git branch -M main entras a la rama principal donde quieres que se guarden los cambios
     8. Creamos un vinculo entre nuestro repositorio de git con el de github con el siguiente comando: git remote add origin https://github.com/"Nombre de usuario"/"Nombre de tu repositorio"
     9. Ahora para guardar los cambios en el repositorio de github utilizamos el comando git push -u "nombre del vinculo entre repositorios" "nombre de la rama en la que quieres que se guarde"
+
+    assdaeedefdas
 */
